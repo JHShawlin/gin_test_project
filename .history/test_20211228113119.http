@@ -1,0 +1,14 @@
+
+
+//GET http://127.0.0.1:8888/get_model
+
+
+POST http://localhost:8888/send_message
+content-type: application/json
+
+{
+  "name": "xiaolin",
+  "age": 25,
+  "sex": "1"
+}
+
